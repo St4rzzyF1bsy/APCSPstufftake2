@@ -1,8 +1,8 @@
 First Name,Last Name,Advisor,Number of Classes,Number of Students,Department,Favorite Color
-Lauren,Horne,no,500,0,Principal,Red
-Shantae,Romain,no,500,0,Operations,Blue
-Fernando,Acosta,no,300,0,Math,Yellow
-Vicmarys,Brito,no,300,0,Spanish,Red
+Lauren,Horne,no,500,0,Principal,red
+Shantae,Romain,no,500,0,Operations,blue
+Fernando,Acosta,no,300,0,Math,yellow
+Vicmarys,Brito,no,300,0,Spanish,red
 Adam,Dobberfuhl,no,300,0,Science,orange
 Heather,Staats,no,500,0,History,pink
 Christopher,Wallace,no,500,0,History,purple
@@ -27,3 +27,4 @@ Daphne,Krutulis,yes,4,34,Computer Science,green
 Nicholas,Martin,yes,3,56,Computer Science,blue
 Iris,Oliver,yes,4,70,Computer Science,yellow
 Jada,Worthy,yes,4,35,Computer Science,blue
+
